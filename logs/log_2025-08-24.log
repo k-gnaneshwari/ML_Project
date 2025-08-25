@@ -1,0 +1,13 @@
+[2025-08-24 18:45:38,349] INFO - This is an info log from test_logger.py // hi this is harshitha,and you?
+[2025-08-24 18:46:24,912] INFO - This is Gnaneshwari
+[2025-08-24 18:48:19,911] INFO - Starting the division operation
+[2025-08-24 18:48:19,911] INFO - Division of 2 numbers
+[2025-08-24 18:48:44,506] INFO - Starting the division operation
+[2025-08-24 18:48:44,507] ERROR - An unexpected error occurred during division.
+[2025-08-24 18:48:44,508] ERROR - Error in C:\ML_Project\testing.py , line 7 : Custom Error Zero
+[2025-08-24 18:55:42,995] INFO - Entered the data ingestion method or component
+[2025-08-24 18:57:05,334] INFO - Entered the data ingestion method or component
+[2025-08-24 18:57:25,111] INFO - Entered the data ingestion method or component
+[2025-08-24 18:57:25,120] INFO - Read the dataset as dataframe
+[2025-08-24 18:57:25,130] INFO - Train test split initiated
+[2025-08-24 18:57:25,147] INFO - Ingestion of the data is completed
